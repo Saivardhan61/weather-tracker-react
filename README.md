@@ -25,6 +25,13 @@ The purpose of this assignment was to understand how real-world applications int
 Overall, this Weather Dashboard project demonstrates my ability to build a complete, functional React application from scratch—starting from planning the structure, integrating APIs, creating responsive UI designs, and preparing the project for hosting. It reflects a practical understanding of React, API usage, and frontend development best practices. Through this task, I gained valuable experience in building interactive applications that respond to user input, communicate with external services, and present data clearly and effectively.
 
 
+*OUTPUT*:
+
+<img width="1892" height="973" alt="Image" src="https://github.com/user-attachments/assets/c46b976b-cdb0-4e1d-8897-b50bcdb6c96d" />
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
